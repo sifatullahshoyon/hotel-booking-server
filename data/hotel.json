@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "imageLink": "https://example.com/hotel1.jpg",
+      "price": 150,
+      "features": ["Free Wi-Fi", "Gym", "Pool"],
+      "location": "City Center",
+      "name": "City Plaza Hotel",
+      "rating": 4.5,
+      "availability": true
+    },
+    {
+      "id": 2,
+      "imageLink": "https://example.com/hotel2.jpg",
+      "price": 120,
+      "features": ["Breakfast Included", "Spa", "Parking"],
+      "location": "Beachfront",
+      "name": "Sunset Resort",
+      "rating": 4.2,
+      "availability": false
+    },
+    {
+      "id": 3,
+      "imageLink": "https://example.com/hotel3.jpg",
+      "price": 200,
+      "features": ["Sea View Rooms", "Restaurant", "Bar"],
+      "location": "Downtown",
+      "name": "Harbor View Inn",
+      "rating": 4.8,
+      "availability": true
+    },
+    {
+      "id": 4,
+      "imageLink": "https://example.com/hotel4.jpg",
+      "price": 180,
+      "features": ["Mountain View", "Spa", "Hiking Trails"],
+      "location": "Scenic Valley",
+      "name": "Tranquil Retreat",
+      "rating": 4.6,
+      "availability": true
+    },
+    {
+      "id": 5,
+      "imageLink": "https://example.com/hotel5.jpg",
+      "price": 250,
+      "features": ["Luxury Suites", "Fine Dining", "Concierge Service"],
+      "location": "Financial District",
+      "name": "Grand Tower Hotel",
+      "rating": 4.9,
+      "availability": true
+    },
+    {
+      "id": 6,
+      "imageLink": "https://example.com/hotel6.jpg",
+      "price": 100,
+      "features": ["Pet-friendly", "Bike Rental", "Cozy Rooms"],
+      "location": "Suburbia",
+      "name": "Paws & Wheels Inn",
+      "rating": 4.0,
+      "availability": true
+    },
+    {
+      "id": 7,
+      "imageLink": "https://example.com/hotel7.jpg",
+      "price": 300,
+      "features": ["Private Beach", "Five-star Dining", "Tennis Courts"],
+      "location": "Island Paradise",
+      "name": "Seaside Haven Resort",
+      "rating": 4.7,
+      "availability": false
+    },
+    {
+      "id": 8,
+      "imageLink": "https://example.com/hotel8.jpg",
+      "price": 150,
+      "features": ["Rooftop Bar", "City View Rooms", "Conference Facilities"],
+      "location": "Metropolis",
+      "name": "Skyline Hotel",
+      "rating": 4.4,
+      "availability": true
+    },
+    {
+      "id": 9,
+      "imageLink": "https://example.com/hotel9.jpg",
+      "price": 120,
+      "features": ["Family Suites", "Playground", "Breakfast Buffet"],
+      "location": "Green Park",
+      "name": "Family Fun Inn",
+      "rating": 4.3,
+      "availability": true
+    },
+    {
+      "id": 10,
+      "imageLink": "https://example.com/hotel10.jpg",
+      "price": 280,
+      "features": ["Spacious Villas", "Golf Course", "24-hour Room Service"],
+      "location": "Countryside",
+      "name": "Country Estates",
+      "rating": 4.8,
+      "availability": true
+    }
+  ]
+  
