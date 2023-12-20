@@ -6,6 +6,7 @@
       "features": ["Free Wi-Fi", "Gym", "Pool"],
       "location": "City Center",
       "name": "City Plaza Hotel",
+      "details": "This hotel boasts an array of lavish facilities and services that redefine opulence. From its luxurious suites offering panoramic city views to the indulgent fine dining experiences at Michelin-starred restaurants, Grand Opulence Palace exudes sophistication and comfort. With personalized service, a comprehensive spa and wellness center, and exclusive event hosting capabilities, it stands as a haven for those seeking the epitome of luxury and refinement.",
       "rating": 4.5,
       "availability": true
     },
@@ -16,6 +17,7 @@
       "features": ["Breakfast Included", "Spa", "Parking"],
       "location": "Beachfront",
       "name": "Sunset Resort",
+      "details": "This hotel boasts an array of lavish facilities and services that redefine opulence. From its luxurious suites offering panoramic city views to the indulgent fine dining experiences at Michelin-starred restaurants, Grand Opulence Palace exudes sophistication and comfort. With personalized service, a comprehensive spa and wellness center, and exclusive event hosting capabilities, it stands as a haven for those seeking the epitome of luxury and refinement.",
       "rating": 4.2,
       "availability": false
     },
@@ -26,6 +28,7 @@
       "features": ["Sea View Rooms", "Restaurant", "Bar"],
       "location": "Downtown",
       "name": "Harbor View Inn",
+      "details": "This hotel boasts an array of lavish facilities and services that redefine opulence. From its luxurious suites offering panoramic city views to the indulgent fine dining experiences at Michelin-starred restaurants, Grand Opulence Palace exudes sophistication and comfort. With personalized service, a comprehensive spa and wellness center, and exclusive event hosting capabilities, it stands as a haven for those seeking the epitome of luxury and refinement.",
       "rating": 4.8,
       "availability": true
     },
@@ -36,6 +39,7 @@
       "features": ["Mountain View", "Spa", "Hiking Trails"],
       "location": "Scenic Valley",
       "name": "Tranquil Retreat",
+      "details": "This hotel boasts an array of lavish facilities and services that redefine opulence. From its luxurious suites offering panoramic city views to the indulgent fine dining experiences at Michelin-starred restaurants, Grand Opulence Palace exudes sophistication and comfort. With personalized service, a comprehensive spa and wellness center, and exclusive event hosting capabilities, it stands as a haven for those seeking the epitome of luxury and refinement.",
       "rating": 4.6,
       "availability": true
     },
@@ -46,6 +50,7 @@
       "features": ["Luxury Suites", "Fine Dining", "Concierge Service"],
       "location": "Financial District",
       "name": "Grand Tower Hotel",
+      "details": "This hotel boasts an array of lavish facilities and services that redefine opulence. From its luxurious suites offering panoramic city views to the indulgent fine dining experiences at Michelin-starred restaurants, Grand Opulence Palace exudes sophistication and comfort. With personalized service, a comprehensive spa and wellness center, and exclusive event hosting capabilities, it stands as a haven for those seeking the epitome of luxury and refinement.",
       "rating": 4.9,
       "availability": true
     },
@@ -56,6 +61,7 @@
       "features": ["Pet-friendly", "Bike Rental", "Cozy Rooms"],
       "location": "Suburbia",
       "name": "Paws & Wheels Inn",
+      "details": "This hotel boasts an array of lavish facilities and services that redefine opulence. From its luxurious suites offering panoramic city views to the indulgent fine dining experiences at Michelin-starred restaurants, Grand Opulence Palace exudes sophistication and comfort. With personalized service, a comprehensive spa and wellness center, and exclusive event hosting capabilities, it stands as a haven for those seeking the epitome of luxury and refinement.",
       "rating": 4.0,
       "availability": true
     },
@@ -66,6 +72,7 @@
       "features": ["Private Beach", "Five-star Dining", "Tennis Courts"],
       "location": "Island Paradise",
       "name": "Seaside Haven Resort",
+      "details": "This hotel boasts an array of lavish facilities and services that redefine opulence. From its luxurious suites offering panoramic city views to the indulgent fine dining experiences at Michelin-starred restaurants, Grand Opulence Palace exudes sophistication and comfort. With personalized service, a comprehensive spa and wellness center, and exclusive event hosting capabilities, it stands as a haven for those seeking the epitome of luxury and refinement.",
       "rating": 4.7,
       "availability": false
     },
@@ -76,6 +83,7 @@
       "features": ["Rooftop Bar", "City View Rooms", "Conference Facilities"],
       "location": "Metropolis",
       "name": "Skyline Hotel",
+      "details": "This hotel boasts an array of lavish facilities and services that redefine opulence. From its luxurious suites offering panoramic city views to the indulgent fine dining experiences at Michelin-starred restaurants, Grand Opulence Palace exudes sophistication and comfort. With personalized service, a comprehensive spa and wellness center, and exclusive event hosting capabilities, it stands as a haven for those seeking the epitome of luxury and refinement.",
       "rating": 4.4,
       "availability": true
     },
@@ -86,6 +94,7 @@
       "features": ["Family Suites", "Playground", "Breakfast Buffet"],
       "location": "Green Park",
       "name": "Family Fun Inn",
+      "details": "This hotel boasts an array of lavish facilities and services that redefine opulence. From its luxurious suites offering panoramic city views to the indulgent fine dining experiences at Michelin-starred restaurants, Grand Opulence Palace exudes sophistication and comfort. With personalized service, a comprehensive spa and wellness center, and exclusive event hosting capabilities, it stands as a haven for those seeking the epitome of luxury and refinement.",
       "rating": 4.3,
       "availability": true
     },
@@ -96,6 +105,7 @@
       "features": ["Spacious Villas", "Golf Course", "24-hour Room Service"],
       "location": "Countryside",
       "name": "Country Estates",
+      "details": "This hotel boasts an array of lavish facilities and services that redefine opulence. From its luxurious suites offering panoramic city views to the indulgent fine dining experiences at Michelin-starred restaurants, Grand Opulence Palace exudes sophistication and comfort. With personalized service, a comprehensive spa and wellness center, and exclusive event hosting capabilities, it stands as a haven for those seeking the epitome of luxury and refinement.",
       "rating": 4.8,
       "availability": true
     }
