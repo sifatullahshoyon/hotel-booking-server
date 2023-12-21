@@ -8,7 +8,7 @@ app.use(cors());
 const hotel = require('./data/hotel.json');
 
 app.get('/' , (req , res) => {
-    res.send('Hotel Booking Server');
+    res.send('Hotel Booking Serverrrrrrr');
 });
 
 app.get('/hotel' , (req , res) => {
